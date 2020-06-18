@@ -1,4 +1,2 @@
-puts "Hello 
-World!"
-RUBY_VERSION
-hello_world.rb
+$ RUBY_VERSION hello_world.rb
+Hello World!
